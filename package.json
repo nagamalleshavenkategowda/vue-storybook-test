@@ -7,10 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "storybook": "storybook dev -p 6006",
+    "storybook": "storybook dev -p 6008",
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@mosaic-design-system/components-vue": "0.200.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
